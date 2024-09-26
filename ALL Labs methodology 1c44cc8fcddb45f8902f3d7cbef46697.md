@@ -162,27 +162,27 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[XSS] LAB: **Reflected XSS into HTML context with all tags blocked except custom ones** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20LAB%20Reflected%20XSS%20into%20HTML%20context%20with%20all%2056f8e64daa074319984983882168ae7f.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) with some SVG markup allowed** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20with%20some%20SVG%20markup%20allow%20a9e4373a6fce4e02a7d9db9140d7f445.md)
+[[XSS] **Lab: [Reflected XSS] with some SVG markup allowed** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20with%20some%20SVG%20markup%20allow%20a9e4373a6fce4e02a7d9db9140d7f445.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into attribute with angle brackets HTML-encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20attribute%20with%20angle%20%208c2c8d575d8e4f8091ec655b81eee969.md)
+[[XSS] **Lab: [Reflected XSS] into attribute with angle brackets HTML-encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20attribute%20with%20angle%20%208c2c8d575d8e4f8091ec655b81eee969.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) with event handlers and `href` attributes blocked** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20with%20event%20handlers%20and%20hr%20e646eddea8284ef7a31afdbfeaa248ac.md)
+[[XSS] **Lab: [Reflected XSS] with event handlers and `href` attributes blocked** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20with%20event%20handlers%20and%20hr%20e646eddea8284ef7a31afdbfeaa248ac.md)
 
-[[XSS] **Lab: [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored) into anchor `href` attribute with double quotes HTML-encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20anchor%20href%20attribute%20wi%207ffb5709fd1741ea821cf6c72afc92c6.md)
+[[XSS] **Lab: [Stored XSS] into anchor `href` attribute with double quotes HTML-encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20anchor%20href%20attribute%20wi%207ffb5709fd1741ea821cf6c72afc92c6.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) in canonical link tag** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20in%20canonical%20link%20tag%20(1)%20f12257df57f647889551b8a58cf5f797.md)
+[[XSS] **Lab: [Reflected XSS] in canonical link tag** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20in%20canonical%20link%20tag%20(1)%20f12257df57f647889551b8a58cf5f797.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into a JavaScript string with a single quote and backslash escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%20494b917b6e2642678fb6301f23bc850d.md)
+[[XSS] **Lab: [Reflected XSS] into a JavaScript string with a single quote and backslash escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%20494b917b6e2642678fb6301f23bc850d.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into a JavaScript string with angle brackets HTML encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%204ef4dcfc0dfa45aa8c9e72efe6dfe25f.md)
+[[XSS] **Lab: [Reflected XSS] into a JavaScript string with angle brackets HTML encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%204ef4dcfc0dfa45aa8c9e72efe6dfe25f.md)
 
-[**[XSS] Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%2077dc29822ae6486dadff21209d905252.md)
+[**[XSS] Lab: [Reflected XSS] into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20a%20JavaScript%20string%20w%2077dc29822ae6486dadff21209d905252.md)
 
-[**[XSS] Lab: [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored) into `onclick` event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20onclick%20event%20with%20angle%2014b157f39ced4f758e17ff8ba004afb6.md)
+[**[XSS] Lab: [Stored XSS] into `onclick` event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20onclick%20event%20with%20angle%2014b157f39ced4f758e17ff8ba004afb6.md)
 
-[**Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/Lab%20Reflected%20XSS%20into%20a%20template%20literal%20with%20ang%2010058573911d420ea55106ec6238786e.md)
+[**Lab: [Reflected XSS] into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/Lab%20Reflected%20XSS%20into%20a%20template%20literal%20with%20ang%2010058573911d420ea55106ec6238786e.md)
 
-[[XSS] **Lab: [Exploiting cross-site scripting](https://portswigger.net/web-security/cross-site-scripting/exploiting) to steal cookies** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Exploiting%20cross-site%20scripting%20to%20steal%2088e7768f477247fdb10b1bc5e2bdee06.md)
+[[XSS] **Lab: [Exploiting cross-site scripting] to steal cookies** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Exploiting%20cross-site%20scripting%20to%20steal%2088e7768f477247fdb10b1bc5e2bdee06.md)
 
 [[XSS] **Lab: Exploiting cross-site scripting to capture passwords** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Exploiting%20cross-site%20scripting%20to%20captu%203fe9111a02354fa0990efc6519845d84.md)
 
@@ -192,7 +192,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[DOM Vuln] **Lab: DOM-based cookie manipulation** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BDOM%20Vuln%5D%20Lab%20DOM-based%20cookie%20manipulation%20(1)%209c55489aa7ee4650a499c1295e1df0e1.md)
 
-[[DOM Vuln] **Lab: [DOM XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based) using web messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BDOM%20Vuln%5D%20Lab%20DOM%20XSS%20using%20web%20messages%20(1)%2046b9775cd11b41018147c55dad8c4c14.md)
+[[DOM Vuln] **Lab: [DOM XSS] using web messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BDOM%20Vuln%5D%20Lab%20DOM%20XSS%20using%20web%20messages%20(1)%2046b9775cd11b41018147c55dad8c4c14.md)
 
 [**[DOM Vuln] DOM XSS using web messages and a JavaScript URL** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BDOM%20Vuln%5D%20DOM%20XSS%20using%20web%20messages%20and%20a%20JavaSc%20966ab420751843e1b8ccfeaf5bda06cc.md)
 
@@ -212,13 +212,13 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[CSRF] **Lab: CSRF where token is duplicated in cookie** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20CSRF%20where%20token%20is%20duplicated%20in%20cooki%20d1931873714c4ef0bb17f8ccdec2572f.md)
 
-[[CSRF] **Lab: [SameSite](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions) Lax bypass via method override** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Lax%20bypass%20via%20method%20override%20f355382a7e094cd1b3ba8a392b3b1f10.md)
+[[CSRF] **Lab: [SameSite] Lax bypass via method override** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Lax%20bypass%20via%20method%20override%20f355382a7e094cd1b3ba8a392b3b1f10.md)
 
-[[CSRF] **Lab: [SameSite](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions) Strict bypass via client-side redirect** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Strict%20bypass%20via%20client-side%20%2055dc40848b6947bfac81442dd7cbd419.md)
+[[CSRF] **Lab: [SameSite] Strict bypass via client-side redirect** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Strict%20bypass%20via%20client-side%20%2055dc40848b6947bfac81442dd7cbd419.md)
 
-[[CSRF] **Lab: [SameSite](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions) Strict bypass via sibling domain** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Strict%20bypass%20via%20sibling%20doma%20f8745e85aa2340c88be77df6ec0e07d0.md)
+[[CSRF] **Lab: [SameSite] Strict bypass via sibling domain** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Strict%20bypass%20via%20sibling%20doma%20f8745e85aa2340c88be77df6ec0e07d0.md)
 
-[[CSRF] **Lab: [SameSite](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions) Lax bypass via cookie refresh** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Lax%20bypass%20via%20cookie%20refresh%20%2082942c1956964fe38a53375a1d85985a.md)
+[[CSRF] **Lab: [SameSite] Lax bypass via cookie refresh** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20Lab%20SameSite%20Lax%20bypass%20via%20cookie%20refresh%20%2082942c1956964fe38a53375a1d85985a.md)
 
 [[CSRF] LAB: **CSRF where Referer validation depends on header being present** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCSRF%5D%20LAB%20CSRF%20where%20Referer%20validation%20depends%20o%20ff67f61c58ce433d9f71a7dd340ef58a.md)
 
@@ -226,23 +226,23 @@ BSCP LABS from MICHAEL N (MM0).
 
 ## *CORS:*
 
-[[CORS] **Lab: [CORS](https://portswigger.net/web-security/cors) vulnerability with basic origin reflection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20basic%20origin%20re%2017f3b33a907c4ec49253a7b97cb7e024.md)
+[[CORS] **Lab: [CORS] vulnerability with basic origin reflection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20basic%20origin%20re%2017f3b33a907c4ec49253a7b97cb7e024.md)
 
-[[CORS] **Lab: [CORS](https://portswigger.net/web-security/cors) vulnerability with trusted null origin** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20trusted%20null%20or%20a47a47abb50a48ce82d3e9aa5fd96448.md)
+[[CORS] **Lab: [CORS] vulnerability with trusted null origin** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20trusted%20null%20or%20a47a47abb50a48ce82d3e9aa5fd96448.md)
 
-[[CORS] **Lab: [CORS](https://portswigger.net/web-security/cors) vulnerability with trusted insecure protocols** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20trusted%20insecur%20f3163ee8d50b48d7b3be59cc52ee3b95.md)
+[[CORS] **Lab: [CORS] vulnerability with trusted insecure protocols** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCORS%5D%20Lab%20CORS%20vulnerability%20with%20trusted%20insecur%20f3163ee8d50b48d7b3be59cc52ee3b95.md)
 
 ## *Click Jacking:*
 
-[[ClickJacking]: **Lab: Basic [clickjacking](https://portswigger.net/web-security/clickjacking) with [CSRF](https://portswigger.net/web-security/csrf) token protection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Basic%20clickjacking%20with%20CSRF%20to%200f6808c3595c481f9c3bce392ec418ee.md)
+[[ClickJacking]: **Lab: Basic [clickjacking] with [CSRF] token protection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Basic%20clickjacking%20with%20CSRF%20to%200f6808c3595c481f9c3bce392ec418ee.md)
 
 [[ClickJacking] **Lab: Clickjacking with form input data prefilled from a URL parameter** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Clickjacking%20with%20form%20input%20da%2051b521c5bacc48e4aad18806933c8c8c.md)
 
 [[CLICKJACKING] **Lab: Clickjacking with a frame buster script** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BCLICKJACKING%5D%20Lab%20Clickjacking%20with%20a%20frame%20buste%20a9404e9d57634ffc860729516b6f41b1.md)
 
-[[ClickJacking] **Lab: Exploiting clickjacking vulnerability to trigger [DOM-based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Exploiting%20clickjacking%20vulnera%202494ad908a1f4100b65eb1c35d98ef79.md)
+[[ClickJacking] **Lab: Exploiting clickjacking vulnerability to trigger [DOM-based XSS]** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Exploiting%20clickjacking%20vulnera%202494ad908a1f4100b65eb1c35d98ef79.md)
 
-[[ClickJacking] **Lab: Multistep [clickjacking](https://portswigger.net/web-security/clickjacking)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Multistep%20clickjacking%20(1)%20d80c8e98dc4d459aa16e70b924d1eaaa.md)
+[[ClickJacking] **Lab: Multistep [clickjacking]** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BClickJacking%5D%20Lab%20Multistep%20clickjacking%20(1)%20d80c8e98dc4d459aa16e70b924d1eaaa.md)
 
 ## *WebSockets:*
 
@@ -264,11 +264,11 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[**Insecure deserialization**] **Lab: Arbitrary object injection in PHP** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Arbitrary%20object%20in%200bf51562a85a4c8f8edcb351defb1d1d.md)
 
-[[**Insecure deserialization**] **Lab: Exploiting Java [deserialization](https://portswigger.net/web-security/deserialization) with Apache Commons** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Exploiting%20Java%20des%2044e76e8cfc66409982d3c4948ed69415.md)
+[[**Insecure deserialization**] **Lab: Exploiting Java [deserialization] with Apache Commons** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Exploiting%20Java%20des%2044e76e8cfc66409982d3c4948ed69415.md)
 
 [[**Insecure deserialization**] **Lab: Exploiting PHP deserialization with a pre-built gadget chain** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Exploiting%20PHP%20dese%20c382da134ac64b6f90ed6a3c32dbdfa6.md)
 
-[[**Insecure deserialization**] **Lab: Exploiting Ruby [deserialization](https://portswigger.net/web-security/deserialization) using a documented gadget chain** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Exploiting%20Ruby%20des%206f08889bec9543ae81eb240e32f07bc5.md)
+[[**Insecure deserialization**] **Lab: Exploiting Ruby [deserialization] using a documented gadget chain** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInsecure%20deserialization%5D%20Lab%20Exploiting%20Ruby%20des%206f08889bec9543ae81eb240e32f07bc5.md)
 
 ## ***GraphQL API vulnerabilities:***
 
@@ -284,13 +284,13 @@ BSCP LABS from MICHAEL N (MM0).
 
 ## ***Server-side template injection***
 
-[[**Server-side template injection**] **Lab: Basic [server-side template injection](https://portswigger.net/web-security/server-side-template-injection)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Basic%20server-%208fa26ee961864fc5808233e9fc7c3d81.md)
+[[**Server-side template injection**] **Lab: Basic [server-side template injection]** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Basic%20server-%208fa26ee961864fc5808233e9fc7c3d81.md)
 
-[[**Server-side template injection**] **Lab: Basic [server-side template injection](https://portswigger.net/web-security/server-side-template-injection) (code context)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Basic%20server-%202733f0e473464f54a064455a19fe06cf.md)
+[[**Server-side template injection**] **Lab: Basic [server-side template injection] (code context)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Basic%20server-%202733f0e473464f54a064455a19fe06cf.md)
 
-[[**Server-side template injection**] **Lab: [Server-side template injection](https://portswigger.net/web-security/server-side-template-injection) using documentation** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Server-side%20t%20fe416ecf6de9476cb42c4c64069f3d6f.md)
+[[**Server-side template injection**] **Lab: [Server-side template injection] using documentation** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Server-side%20t%20fe416ecf6de9476cb42c4c64069f3d6f.md)
 
-[[**Server-side template injection**] **Lab: [Server-side template injection](https://portswigger.net/web-security/server-side-template-injection) in an unknown language with a documented exploit** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Server-side%20t%20922e6f4640ba4d52b836a5de74a105bb.md)
+[[**Server-side template injection**] **Lab: [Server-side template injection] in an unknown language with a documented exploit** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20Lab%20Server-side%20t%20922e6f4640ba4d52b836a5de74a105bb.md)
 
 [[**Server-side template injection**] (5)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BServer-side%20template%20injection%5D%20(5)%200de1c243ac674535a0226688dd1dba36.md)
 
