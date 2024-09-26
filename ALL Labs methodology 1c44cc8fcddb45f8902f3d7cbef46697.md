@@ -115,23 +115,21 @@ BSCP LABS from MICHAEL N (MM0).
 ## *XXE:*
 
  
+[[XXE] **Lab: Exploiting XXE using external entities to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20using%20external%20entities%20t%20d65e564f9c404d91bed190b545e550ce.md)
 
-[[XXE] **Lab: Exploiting [XXE] using external entities to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20using%20external%20entities%20t%20d65e564f9c404d91bed190b545e550ce.md)
+[[XXE] **Lab: Exploiting XXE to perform SSRF attacks** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20to%20perform%20SSRF%20attacks%20%20893892f20b5b469494992ae996b5005b.md)
 
-[[XXE] **Lab: Exploiting [XXE] to perform SSRF attacks** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20to%20perform%20SSRF%20attacks%20(%20893892f20b5b469494992ae996b5005b.md)
+[[XXE] **Lab: Blind XXE with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%205a79fbd535db479fb84c9e48156a8faa.md)
 
-[[XXE] **Lab: [Blind XXE] with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20(%205a79fbd535db479fb84c9e48156a8faa.md)
+[[XXE] **Lab: Blind XXE with out-of-band interaction via XML parameter entities** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20v%201c7c49ea251c451ea43e80fc0b522fb3.md)
 
-[[XXE] **Lab: [Blind XXE] with out-of-band interaction via XML parameter entities** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20v%201c7c49ea251c451ea43e80fc0b522fb3.md)
+[[XXE] **Lab: Exploiting blind XXE to exfiltrate data using a malicious external DTD** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20exfiltrate%20data%205f7a26b5cf96472fa8e7225a90d4a832.md)
 
-[[XXE] **Lab: Exploiting [blind XXE] to exfiltrate data using a malicious external DTD** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20exfiltrate%20data%20%205f7a26b5cf96472fa8e7225a90d4a832.md)
+[[XXE] **Lab: Exploiting blind XXE to retrieve data via error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20retrieve%20data%20vi%203ad32e9c22534876a0ee6809a68dec9f.md)
 
-[[XXE] **Lab: Exploiting [blind XXE] to retrieve data via error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20retrieve%20data%20vi%203ad32e9c22534876a0ee6809a68dec9f.md)
+[[XXE] **Lab: Exploiting XInclude to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XInclude%20to%20retrieve%20files%2078324e57ef024e16a74c217767d8f0b2.md)
 
-[[XXE] **Lab: Exploiting XInclude to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XInclude%20to%20retrieve%20files%20(1%2078324e57ef024e16a74c217767d8f0b2.md)
-
-[[XXE] LAB: **Exploiting XXE via image file upload** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20LAB%20Exploiting%20XXE%20via%20image%20file%20upload%20(1)%20c1743bea1621427f8d766256c07e8ffe.md)
-
+[[XXE] LAB: **Exploiting XXE via image file upload** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20LAB%20Exploiting%20XXE%20via%20image%20file%20upload%20c1743bea1621427f8d766256c07e8ffe.md)
 ---
 
 # Client-Side:
