@@ -250,7 +250,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[WebSockets] **Lab: Manipulating the WebSocket handshake to exploit vulnerabilities** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BWebSockets%5D%20Lab%20Manipulating%20the%20WebSocket%20handsh%20c23322ff1c3a441d8de7c00d95ba7f58.md)
 
-[[WebSockets] **Lab: Cross-site WebSocket hijacking** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BWebSockets%5D%20Lab%20Cross-site%20WebSocket%20hijacking%20(1%2017cc6f69f62e4e0e8f5439e1c87f3fbd.md)
+[[WebSockets] **Lab: Cross-site WebSocket hijacking** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BWebSockets%5D%20Lab%20Cross-site%20WebSocket%20hijacking%2017cc6f69f62e4e0e8f5439e1c87f3fbd.md)
 
 # Advanced Topics:
 
@@ -276,7 +276,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [**[GraphQL]** **Lab: Accidental exposure of private GraphQL fields** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BGraphQL%5D%20Lab%20Accidental%20exposure%20of%20private%20Graph%202774f1ca5cf048aea50ccae040817c5a.md)
 
-[**[GraphQL] Lab: Finding a hidden GraphQL endpoint** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BGraphQL%5D%20Lab%20Finding%20a%20hidden%20GraphQL%20endpoint%20(1%201da1e454f9c4448fbfbadf80fa877436.md)
+[**[GraphQL] Lab: Finding a hidden GraphQL endpoint** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BGraphQL%5D%20Lab%20Finding%20a%20hidden%20GraphQL%20endpoint%201da1e454f9c4448fbfbadf80fa877436.md)
 
 [**[GraphQL] Lab: Bypassing GraphQL brute force protections** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BGraphQL%5D%20Lab%20Bypassing%20GraphQL%20brute%20force%20protec%204a2f84729a0b42a09ad4e158d1f45c60.md)
 
