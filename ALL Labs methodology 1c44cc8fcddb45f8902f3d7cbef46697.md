@@ -136,7 +136,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 ## *XSS:*
 
-[Methodology (ORLANDO): ](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/Methodology%20(ORLANDO)%2076667e3ef0364296becec9274b960b55.md)
+
 
 [[XSS] **Lab: [Reflected XSS] into HTML context with nothing encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20HTML%20context%20with%20not%20538b8dd091774ecda45bac51fe9942e7.md)
 
