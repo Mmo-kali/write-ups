@@ -32,7 +32,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [**[SQL Injection] Lab: Blind SQL injection with conditional responses** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Blind%20SQL%20injection%20with%20condi%20705013c1db184e93b00e00fd862a5bb8.md)
 
-[**[SQL Injection] Lab: [Blind SQL injection](https://portswigger.net/web-security/sql-injection/blind) with conditional errors** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Blind%20SQL%20injection%20with%20condi%2002da9f393f754db58585582a129eb115.md)
+[**[SQL Injection] Lab: [Blind SQL injection] with conditional errors** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Blind%20SQL%20injection%20with%20condi%2002da9f393f754db58585582a129eb115.md)
 
 [[SQL Injection] Lab: **Visible error-based [SQL injection](https://portswigger.net/web-security/sql-injection)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Visible%20error-based%20SQL%20inject%2079fb61d11e364e8fa815cda56e36ff79.md)
 
