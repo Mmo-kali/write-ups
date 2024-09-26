@@ -34,7 +34,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [**[SQL Injection] Lab: [Blind SQL injection] with conditional errors** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Blind%20SQL%20injection%20with%20condi%2002da9f393f754db58585582a129eb115.md)
 
-[[SQL Injection] Lab: **Visible error-based [SQL injection](https://portswigger.net/web-security/sql-injection)** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Visible%20error-based%20SQL%20inject%2079fb61d11e364e8fa815cda56e36ff79.md)
+[**[SQL Injection] Lab: Visible error-based [SQL injection]** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSQL%20Injection%5D%20Lab%20Visible%20error-based%20SQL%20inject%2079fb61d11e364e8fa815cda56e36ff79.md)
 
 ## *Authentication:*
 
@@ -52,11 +52,11 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[OS Command Injection] Lab: **Blind OS command injection with time delays** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%201a3a272e88dd42ffbbcf47a1307f82fd.md)
 
-[**[OS Command Injection] Lab: Blind [OS command injection](https://portswigger.net/web-security/os-command-injection) with output redirection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20d6c90a75419d419d8f8a9743dacfad93.md)
+[**[OS Command Injection] Lab: Blind [OS command injection] with output redirection** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20d6c90a75419d419d8f8a9743dacfad93.md)
 
-[[OS Command Injection] Lab: **Blind OS [command injection](https://portswigger.net/web-security/os-command-injection) with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20f461dac801d84d1d9a65d6ca891fe4a9.md)
+[**[OS Command Injection] Lab: Blind OS [command injection] with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20f461dac801d84d1d9a65d6ca891fe4a9.md)
 
-[[OS Command Injection] Lab: **Blind [OS command injection](https://portswigger.net/web-security/os-command-injection) with out-of-band data exfiltration** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20436d29d1ad9242feb4623dbba8175b1f.md)
+[[OS Command Injection] Lab: **Blind [OS command injection] with out-of-band data exfiltration** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BOS%20Command%20Injection%5D%20Lab%20Blind%20OS%20command%20inject%20436d29d1ad9242feb4623dbba8175b1f.md)
 
 ## *File Path Traversal:*
 
@@ -70,15 +70,15 @@ BSCP LABS from MICHAEL N (MM0).
 
 ## *Information Disclosure:*
 
-[[Information Disclosure] **Lab: [Information disclosure](https://portswigger.net/web-security/information-disclosure) in error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInformation%20Disclosure%5D%20Lab%20Information%20disclosur%200ee1a7172d184db4a94f5809808ff70b.md)
+[[Information Disclosure] **Lab: [Information disclosure] in error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInformation%20Disclosure%5D%20Lab%20Information%20disclosur%200ee1a7172d184db4a94f5809808ff70b.md)
 
-[[Information Disclosure] **Lab: [Information disclosure](https://portswigger.net/web-security/information-disclosure) on debug page** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInformation%20Disclosure%5D%20Lab%20Information%20disclosur%20bf226e613e614b4bb6ee2da2321336f2.md)
+[[Information Disclosure] **Lab: [Information disclosure] on debug page** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInformation%20Disclosure%5D%20Lab%20Information%20disclosur%20bf226e613e614b4bb6ee2da2321336f2.md)
 
 [[Information Disclosure] **Lab: Source code disclosure via backup files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BInformation%20Disclosure%5D%20Lab%20Source%20code%20disclosur%20f16c77b9b54c4a9ba6890cb77f5d8f49.md)
 
 ## *Access Control:*
 
-[[Access Control] **Lab: URL-based [access control](https://portswigger.net/web-security/access-control) can be circumvented** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BAccess%20Control%5D%20Lab%20URL-based%20access%20control%20can%20%20a35ef49c5dc445dd9d1b7f5c985f246a.md)
+[[Access Control] **Lab: URL-based [access control] can be circumvented** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BAccess%20Control%5D%20Lab%20URL-based%20access%20control%20can%20%20a35ef49c5dc445dd9d1b7f5c985f246a.md)
 
 [[Access Control] Lab: M**ethod-based access control can be circumvented** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BAccess%20Control%5D%20Lab%20Method-based%20access%20control%20c%208e30d16fefed4342852f16d5294b5190.md)
 
@@ -116,17 +116,17 @@ BSCP LABS from MICHAEL N (MM0).
 
  
 
-[[XXE] **Lab: Exploiting [XXE](https://portswigger.net/web-security/xxe) using external entities to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20using%20external%20entities%20t%20d65e564f9c404d91bed190b545e550ce.md)
+[[XXE] **Lab: Exploiting [XXE] using external entities to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20using%20external%20entities%20t%20d65e564f9c404d91bed190b545e550ce.md)
 
-[[XXE] **Lab: Exploiting [XXE](https://portswigger.net/web-security/xxe) to perform SSRF attacks** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20to%20perform%20SSRF%20attacks%20(%20893892f20b5b469494992ae996b5005b.md)
+[[XXE] **Lab: Exploiting [XXE] to perform SSRF attacks** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20to%20perform%20SSRF%20attacks%20(%20893892f20b5b469494992ae996b5005b.md)
 
-[[XXE] **Lab: [Blind XXE](https://portswigger.net/web-security/xxe/blind) with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20(%205a79fbd535db479fb84c9e48156a8faa.md)
+[[XXE] **Lab: [Blind XXE] with out-of-band interaction** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20(%205a79fbd535db479fb84c9e48156a8faa.md)
 
-[[XXE] **Lab: [Blind XXE](https://portswigger.net/web-security/xxe/blind) with out-of-band interaction via XML parameter entities** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20v%201c7c49ea251c451ea43e80fc0b522fb3.md)
+[[XXE] **Lab: [Blind XXE] with out-of-band interaction via XML parameter entities** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Blind%20XXE%20with%20out-of-band%20interaction%20v%201c7c49ea251c451ea43e80fc0b522fb3.md)
 
-[[XXE] **Lab: Exploiting [blind XXE](https://portswigger.net/web-security/xxe/blind) to exfiltrate data using a malicious external DTD** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20exfiltrate%20data%20%205f7a26b5cf96472fa8e7225a90d4a832.md)
+[[XXE] **Lab: Exploiting [blind XXE] to exfiltrate data using a malicious external DTD** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20exfiltrate%20data%20%205f7a26b5cf96472fa8e7225a90d4a832.md)
 
-[[XXE] **Lab: Exploiting [blind XXE](https://portswigger.net/web-security/xxe/blind) to retrieve data via error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20retrieve%20data%20vi%203ad32e9c22534876a0ee6809a68dec9f.md)
+[[XXE] **Lab: Exploiting [blind XXE] to retrieve data via error messages** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20blind%20XXE%20to%20retrieve%20data%20vi%203ad32e9c22534876a0ee6809a68dec9f.md)
 
 [[XXE] **Lab: Exploiting XInclude to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XInclude%20to%20retrieve%20files%20(1%2078324e57ef024e16a74c217767d8f0b2.md)
 
@@ -140,15 +140,15 @@ BSCP LABS from MICHAEL N (MM0).
 
 [Methodology (ORLANDO): ](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/Methodology%20(ORLANDO)%2076667e3ef0364296becec9274b960b55.md)
 
-[[XSS] **Lab: [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected) into HTML context with nothing encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20HTML%20context%20with%20not%20538b8dd091774ecda45bac51fe9942e7.md)
+[[XSS] **Lab: [Reflected XSS] into HTML context with nothing encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Reflected%20XSS%20into%20HTML%20context%20with%20not%20538b8dd091774ecda45bac51fe9942e7.md)
 
-[**[XSS] Lab: [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored) into HTML context with nothing encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20HTML%20context%20with%20nothin%204be761b9924147648a31ccc40dc8657a.md)
+[**[XSS] Lab: [Stored XSS] into HTML context with nothing encoded** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20Stored%20XSS%20into%20HTML%20context%20with%20nothin%204be761b9924147648a31ccc40dc8657a.md)
 
 [**[XSS] DOM XSS in `document.write` sink using source `location.search`** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20DOM%20XSS%20in%20document%20write%20sink%20using%20source%20%203aa7592077104563b88044ec25e8bdc7.md)
 
-[[XSS] [**DOM XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based) in `document.write` sink using source `location.search` inside a select element** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20DOM%20XSS%20in%20document%20write%20sink%20using%20source%20%2090131e0752054f3e9e6062c9889ddd97.md)
+[[XSS] [**DOM XSS] in `document.write` sink using source `location.search` inside a select element** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20DOM%20XSS%20in%20document%20write%20sink%20using%20source%20%2090131e0752054f3e9e6062c9889ddd97.md)
 
-[[XSS] **Lab: [DOM XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based) in `innerHTML` sink using source `location.search`** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20DOM%20XSS%20in%20innerHTML%20sink%20using%20source%20l%205b3624adeb6e404ab825c3579babce30.md)
+[[XSS] **Lab: [DOM XSS] in `innerHTML` sink using source `location.search`** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20Lab%20DOM%20XSS%20in%20innerHTML%20sink%20using%20source%20l%205b3624adeb6e404ab825c3579babce30.md)
 
 [[XSS] **DOM XSS in jQuery anchor `href` attribute sink using `location.search` source** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXSS%5D%20DOM%20XSS%20in%20jQuery%20anchor%20href%20attribute%20sink%20801e34a1f7b5483d9d6f8867b665bf5c.md)
 
