@@ -6,5 +6,5 @@ This document provides an index of all files in the current directory.
 
 - [**Active Directory Lab**](https://github.com/Mmo-kali/write-ups/blob/main/ActiveDirectory/ActiveDirectoryLab.pdf)
 - [**Attacktive Directory WriteUp**](https://github.com/Mmo-kali/write-ups/blob/main/ActiveDirectory/976fe1f8-ccef-40ef-80c6-83f8f555a550_Attacktive_Directory_Mm0.pdf)
-- [**Cicada Directory WriteUp**](https://github.com/Mmo-kali/write-ups/blob/main/ActiveDirectory/HackTheBox-Cicada.pdf)
+- [**HOME LAB - KEBEROASTING+LLMNR POSIONING (WIRESHARK)**](https://github.com/Mmo-kali/write-ups/blob/main/ActiveDirectory/25f4f9aa-5c87-45b0-b3ae-ed51219d8e1c_LLMNR_Poisoning_and_KerberosHOMELAB.pdf)
   
