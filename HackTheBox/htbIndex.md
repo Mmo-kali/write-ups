@@ -6,3 +6,4 @@ This document provides an index of all write-ups I have made for HackTheBox labs
 
 - [**CozyHosting HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/cozyhosting.htb.pdf)
 - [**Lame HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/lame-HackTheBox.pdf)
+- - [**Cicada Directory WriteUp**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/HackTheBox-Cicada.pdf)
