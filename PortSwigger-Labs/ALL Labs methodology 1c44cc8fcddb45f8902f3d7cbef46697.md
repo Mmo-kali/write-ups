@@ -98,7 +98,7 @@ BSCP LABS from MICHAEL N (MM0).
 
 [[File upload] **Lab: Web shell upload via race condition** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BFile%20upload%5D%20Lab%20Web%20shell%20upload%20via%20race%20condit%20936def6e64554a5abe97d6f86506db78.md)
 
-[**[File Upload] Lab: Exploiting XXE to retrieve data by repurposing a local DTD**](https://github.com/Mmo-kali/write-ups/blob/main/PortSwigger-Labs/e40f5da3-607f-4723-b6c1-6090d9835bab_File_Upload_Lab_Exploiting_XXE_to_retrieve_data_by_repurposing_a_local_DTD.pdf)
+
 ## *SSRF:*
 
 [[SSRF] **Lab: SSRF with blacklist-based input filter** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BSSRF%5D%20Lab%20SSRF%20with%20blacklist-based%20input%20filter%20%2034933de87e204902ae0090c16185c894.md)
@@ -115,7 +115,8 @@ BSCP LABS from MICHAEL N (MM0).
 
 ## *XXE:*
 
- 
+[**[XXE] Lab: Exploiting XXE to retrieve data by repurposing a local DTD**](https://github.com/Mmo-kali/write-ups/blob/main/PortSwigger-Labs/XXE_Lab_Exploiting_XXE_to_retrieve_data_by_repurposing_a_local_DTD.pdf)
+
 [[XXE] **Lab: Exploiting XXE using external entities to retrieve files** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20using%20external%20entities%20t%20d65e564f9c404d91bed190b545e550ce.md)
 
 [[XXE] **Lab: Exploiting XXE to perform SSRF attacks** (1)](ALL%20Labs%20methodology%201c44cc8fcddb45f8902f3d7cbef46697/%5BXXE%5D%20Lab%20Exploiting%20XXE%20to%20perform%20SSRF%20attacks%20%20893892f20b5b469494992ae996b5005b.md)
