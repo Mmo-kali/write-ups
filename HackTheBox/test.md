@@ -28,9 +28,9 @@ this is my payload:
 
  note: the double quote at the beginning of alert will be closed by the single quote from the original value attribute. 
 
-```html
+html
 lb155" autofocus onfocus="alert(1)
-```
+
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2876a1ea-e16e-4e85-a8c7-cd6ef56ad9a2/0296608f-70fa-4a96-8c6e-4264e689cf83/Untitled.png)
 
