@@ -13,3 +13,4 @@ This document provides an index of all write-ups I have made for HackTheBox labs
 - [**[Windows] Remote HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/Windows_Remote.pdf)
 - [**[Windows] Active HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/Windows_Active.pdf)
 - [**[Windows] Manager HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/WINDOWS_TOGETHER_Manager.pdf)
+- [**[Windows] Administrator HackTheBox**](https://github.com/Mmo-kali/write-ups/blob/main/HackTheBox/27998b8e-8a3b-430b-924b-e3214a3ecf39_WINDOWS_-_Administrator_.pdf)
